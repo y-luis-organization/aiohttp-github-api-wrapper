@@ -4,9 +4,11 @@ Prerequisites:
 -------------
 aiohttp
 
-sqlalquemy
-
 requests
+
+trafaret-config
+
+sqlalchemy
 
 Endpoints
 -------------
@@ -22,8 +24,10 @@ Both endpoints returns a JSON response.
 
 Tested with:
 -------------
-sqlalquemy 1.1.15
+trafaret-config 1.0.1
 
 aiohttp 2.3.6
 
 requests 2.10
+
+sqlalchemy 1.1.15

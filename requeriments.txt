@@ -1,3 +1,4 @@
 requests
 aiohttp
-sqlalquemy
+trafaret-config
+sqlalchemy
